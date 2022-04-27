@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1458675259219
+Build-Jdk: 1.7.0_79
+Built-By: hromerot
+Bundle-ManifestVersion: 2
+Bundle-Name: Camel Blueprint Route
+Bundle-SymbolicName: org.apache.camel.archetypes.camel-archetype-bluepri
+ nt
+Bundle-Version: 2.15.1.redhat-620133
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0
