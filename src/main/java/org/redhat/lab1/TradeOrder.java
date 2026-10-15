@@ -12,6 +12,10 @@ public class TradeOrder implements Serializable {
 	Integer shares;
 	Double cost;
 
+		public String getName() {return name;}
+		public void setName(String name) {this.name = name;}
+		public String getCustId() {return custId;}
+		public void setCustId(String custId) {this.custId = custId;}
 		public Integer getVip() {return vip;}
 		public void setVip(Integer vip) {this.vip = vip;}
 		public String getStockId() {return stockId;}
